@@ -2,7 +2,7 @@
 
 You've run into my GitHub it appears. Welcome.
 #### I'm Ogulcan Kaya. A CS student at McGill University, hobbyist game developer and maker of random software, Graduating 2023.
-- 📫 Contact: Ogulcan.kaya@mail.mcgill.ca
+- 📫 Contact: ogulcan.kaya@mail.mcgill.ca
 - 😄 Pronouns: He/Him or They/Them
 - ➕ More of my stuff: oksoft.itch.io
 
