@@ -1,7 +1,7 @@
 # Hello there!
 
 You've run into my GitHub it appears. Welcome.
-#### I'm Ogulcan Kaya. A CS student at McGill University, hobbyist game developer and maker of random software, Graduating 2023 December.
+**I'm Ogulcan Kaya. A CS student at McGill University, hobbyist game developer and maker of random software, Graduating 2023 December.**
 - 📫 Contact: ogulcan.kaya@mail.mcgill.ca
 - 😄 Pronouns: He/Him or They/Them
 - ➕ My portfolio: https://portfolio.okaya.dev
