@@ -8,6 +8,8 @@ You've run into my GitHub it appears. Welcome.
 
 My primary interests are Physics, AI, and Game Development as of now but I'm eternally curious and interested in doing any sort of work that widens my horizons, relates to my skillset, and allows me to be a better programmer and developer in general. So feel free to contact me for projects and work from any part of the software spectrum.
 
+#####Please note: a lot of my best work is software on projects that are NDA/commercial/coursework or otherwise closed source, this is a mere sample.
+
 Here, you will find some of the projects I've worked on over the years, notably:
 - Various games: A lot of my projects are commercial and/or involve closed source code from other developers, but I make public what I can.
 - A few systems: OKFish, a crowd AI system, or OKTank and OKZeppelin, Tank and Zeppelin controllers respectively.
