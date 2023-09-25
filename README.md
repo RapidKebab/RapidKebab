@@ -11,6 +11,7 @@ My primary interests are Physics, AI, and Game Development as of now but I'm ete
 **Please note: a lot of my best work is software on projects that are NDA/commercial/coursework or otherwise closed source, this is a mere sample.**
 
 Here, you will find some of the projects I've worked on over the years, notably:
+- Assignments: Old assignments from my time at McGill University.
 - Various games: A lot of my projects are commercial and/or involve closed source code from other developers, but I make public what I can.
 - A few systems: OKFish, a crowd AI system, or OKTank and OKZeppelin, Tank and Zeppelin controllers respectively.
 - A bunch of random projects: DesktopCat, a cute cat that sits on your desktop and motivates you, and hibot, a discord bot that exists to annoy.
