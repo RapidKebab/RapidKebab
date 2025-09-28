@@ -13,7 +13,7 @@ I've been doing Tech Design roles lately, but have experience in full programmer
 Here, you will find some of the projects I've worked on over the years, notably:
 - Assignments: Old assignments from my time at McGill University.
 - Various games: A lot of my projects are commercial and/or involve closed source code from other developers, but I make public what I can.
-- A few systems: OKFish, a crowd AI system, or OKTank and OKZeppelin, Tank and Zeppelin controllers respectively.
+- A few systems: My fork of ImpactController, a beautiful unity character controller, OKFish, a crowd AI system, as well as OKTank and OKZeppelin(guess!).
 - A bunch of random projects: DesktopCat, a cute cat that sits on your desktop and motivates you, and hibot, a discord bot that exists to annoy.
 
 <!--
