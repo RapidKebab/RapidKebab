@@ -1,7 +1,7 @@
 # Hello there!
 
 You've run into my GitHub it appears. Welcome.
-**I'm O. Kaya. McGill Alum, AAA/Indie GameDev and maker of random software.**
+**I'm O. Kaya. McGill Alum, AAA/Indie GameDev and maker of assorted software.**
 - 📫 Contact: ogulcan.kaya@mail.mcgill.ca
 - ➕ My portfolio: https://portfolio.okaya.dev
 - 🔭 Current work: Contract NDA Projects, Unrevealed indie games.
