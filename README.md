@@ -2,9 +2,10 @@
 
 You've run into my GitHub it appears. Welcome.
 **I'm O. Kaya. McGill Alum, AAA/Indie GameDev and maker of assorted software.**
-- 📫 Contact: ogulcankaya117@gmail.com
-- ➕ My portfolio: https://portfolio.okaya.dev
-- 🔭 Current work: Contract NDA Projects, Unrevealed indie games.
+- Contact: ogulcankaya117@gmail.com
+- My portfolio: https://portfolio.okaya.dev
+- Current work: Contract NDA Projects, Unrevealed indie games.
+- Previous work: Behaviour Interactive, Haven/Sony
 
 I've been doing Tech Design roles lately, but have experience in full programmer roles, a CS diploma, and passion for problem solving in general. If you're interested in collaborating, feel free to reach out!
 
